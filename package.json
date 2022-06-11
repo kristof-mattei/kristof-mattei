@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "description": "I am a passionate developer with 15 years of experience in software development, known as an expert technical problem solver, responsible for fixing many 'ghost-in-the-machine' bugs, and as a last-minute point of contact to assist colleagues in technical triages.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
