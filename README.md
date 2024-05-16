@@ -17,6 +17,6 @@ And I try to get as far as possible in Advent of Code:
 -   https://github.com/kristof-mattei/advent-of-code-2022
 -   https://github.com/kristof-mattei/advent-of-code-2023
 
-You can find me on [Linkedin](https://linkedin.com/in/kristofmattei), or on a hiking trail near you.
+You can find me on [LinkedIn](https://linkedin.com/in/kristofmattei), or on a hiking trail near you.
 
-I am looking for a new adventure as a Senior / Principal Software Engineer and can be contacted on [Linkedin](https://linkedin.com/in/kristofmattei).
+I am looking for a new adventure as a Senior / Principal Software Engineer and can be contacted on [LinkedIn](https://linkedin.com/in/kristofmattei).
