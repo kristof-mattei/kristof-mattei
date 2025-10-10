@@ -1,14 +1,17 @@
 {
-  "name": "y",
-  "description": "I am a passionate developer with 15 years of experience in software development, known as an expert technical problem solver, responsible for fixing many 'ghost-in-the-machine' bugs, and as a last-minute point of contact to assist colleagues in technical triages.",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "prettier": "prettier --write ."
+  "name": "kristof-mattei",
+  "type": "module",
+  "packageManager": "pnpm@10.18.2+sha512.9fb969fa749b3ade6035e0f109f0b8a60b5d08a1a87fdf72e337da90dcc93336e2280ca4e44f2358a649b83c17959e9993e777c2080879f3801e6f0d999ad3dd",
+  "engines": {
+    "node": "24.10.0",
+    "pnpm": "10.18.2"
   },
-  "author": "",
-  "license": "ISC",
+  "scripts": {
+    "format": "prettier --write ."
+  },
   "devDependencies": {
-    "prettier": "3.6.2"
+    "prettier": "3.6.2",
+    "prettier-plugin-sh": "0.18.0",
+    "prettier-plugin-toml": "2.0.6"
   }
 }

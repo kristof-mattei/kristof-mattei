@@ -22,4 +22,3 @@ And I try to get as far as possible in Advent of Code:
 - (Soon!) https://github.com/kristof-mattei/advent-of-code-2025
 
 You can find me on [LinkedIn](https://linkedin.com/in/kristofmattei), or on a hiking trail near you.
-
